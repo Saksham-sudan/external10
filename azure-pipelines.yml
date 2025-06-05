@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  MyPool
+  external10
 
 steps:
 - task: Maven@3
